@@ -15,34 +15,76 @@ I build backend systems focused on correctness, consistency, and real-world reli
 - Strong foundation in DSA, DBMS, OS, and REST architecture  
 - Interested in concurrency control, atomic operations, and system design  
 - Active internship contributor building production-grade tools  
-- Competitive coding in C++ with structured DSA practice  
+- Coding in C++ with structured DSA practice  
 
 I care more about system behavior under edge cases than just passing test cases.
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Logic & Problem Solving
 
-### Languages
-C • C++ • Python • SQL • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
 
-### Backend
-Django • Django REST Framework • Flask  
-REST API Design • Idempotency • Transactions  
-Pagination • Filtering • Rate Limiting  
-
-### Databases & Infrastructure
-PostgreSQL • SQLite • Redis  
-Docker • Docker Compose • Gunicorn  
-Render • Vercel • Git  
-
-### Data & ML
-NumPy • Pandas  
-Structured Data Workflows  
-Applied ML assessments & analytics dashboards  
+- Strong foundation in Data Structures & Algorithms  
+- Competitive coding in C++  
+- DBMS, OS, and system design fundamentals  
+- Focus on correctness, edge cases, and time-space trade-offs  
 
 ---
 
+## 🚀 Engineering & Full-Stack Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,django,postgres,redis,docker,git" />
+</p>
+
+- Flask + Jinja2 server-rendered applications  
+- REST API design (Django REST Framework)  
+- PostgreSQL schema design & optimization  
+- Redis for caching & performance  
+- Dockerized workflows  
+
+---
+
+## 🌍 Deployment & Production
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,render" />
+</p>
+
+- Deployed production applications on Vercel & Render  
+- Managed environment configs and service integrations  
+- Built reproducible and maintainable deployments  
+
+---
+
+## 📊 Data & Analytical Thinking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- NumPy  
+- Pandas  
+- Structured data workflows & analytics dashboards  
+
+---
+
+## 🤖 AI-Augmented Development
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-Codex-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-000000?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-AI-1FB6FF?logo=perplexity&logoColor=white" />
+</p>
+
+Used for research acceleration, rapid prototyping, and refinement —  
+while system architecture, logic design, and implementation decisions remain independently driven.
+
+
+---
 ## 🚀 Featured Engineering Work
 
 ### 🔹 FADC Configuration Tool  
@@ -58,6 +100,7 @@ Live: https://fadcv.vercel.app
 
 ### 🔹 HealthSync  
 **Flask | REST APIs | PostgreSQL**
+Live: https://healthsync-hms.onrender.com/
 
 - Designed 15+ role-based backend endpoints  
 - Built normalized schema reducing redundancy  
