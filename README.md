@@ -87,6 +87,14 @@ while system architecture, logic design, and implementation decisions remain ind
 ---
 ## 🚀 Featured Engineering Work
 
+### 🔹 Job Search Assistant
+**Python | Node.js | Vercel Serverless | GPT-4o (GitHub Models) | Notion API**
+Live: https://jobhuntwitharchi.vercel.app
+
+- Built a full-stack AI-powered job search tool with 4 modules — outreach email drafting, form answer generation, JD-tailored resume export (DOCX), and direct Notion DB integration
+- Engineered serverless API proxy on Vercel routing LLM requests via GitHub Models (GPT-4o), eliminating CORS issues and securing API keys server-side
+- Integrated Notion API to auto-populate a structured job application tracker with fields like status, portal, mode, next action, and salary
+
 ### 🔹 FADC Configuration Tool  
 **Python | Flask | Deployment on Vercel**  
 Live: https://fadcv.vercel.app  
