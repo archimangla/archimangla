@@ -6,7 +6,7 @@ Delhi, India
 B.Tech CSE (MAIT, GGSIPU) | BS Data Science (IIT Madras)
 </p>
 
-<p style="text-align: center; margin: 0;">
+<p align="center">
     <a href="https://archimangla.vercel.app" style="text-decoration: none;">Portfolio</a>
 </p>
 
