@@ -6,6 +6,7 @@ Delhi, India
 B.Tech CSE (MAIT, GGSIPU) | BS Data Science (IIT Madras)
 </p>
 
+<a href="archimangla.vercel.app">Portfolio</a>
 ---
 
 ## 🧠 About Me
@@ -18,8 +19,6 @@ I build backend systems focused on correctness, consistency, and real-world reli
 - Coding in C++ with structured DSA practice  
 
 I care more about system behavior under edge cases than just passing test cases.
-
-Portfolio: archimangla.vercel.app
 
 ---
 
